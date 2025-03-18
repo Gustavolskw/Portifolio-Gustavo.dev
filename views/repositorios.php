@@ -9,21 +9,21 @@
                 <h5>Tecnologias usadas</h5>
                 <div class="row justify-content-center">
                     <div class="col-4 mb-2">
-                        <img class="img-used-repo" src="/public/assets/languages/Vue.png" alt="icone Vue">
+                        <img class="img-used-repo" src="assets/languages/Vue.png" alt="icone Vue">
                     </div>
 
                     <div class="col-4 mb-2">
-                        <img class="img-used-repo" src="/public/assets/languages/js.png" alt="icone Javascript">
+                        <img class="img-used-repo" src="assets/languages/js.png" alt="icone Javascript">
                     </div>
 
                     <div class="col-4 mb-2">
-                        <img class="img-used-repo" src="/public/assets/languages/java.png" alt="icone Java">
+                        <img class="img-used-repo" src="assets/languages/java.png" alt="icone Java">
                     </div>
                     <div class="col-4 mb-2">
-                        <img class="img-used-repo" src="/public/assets/languages/mysql.png" alt="icone Java">
+                        <img class="img-used-repo" src="assets/languages/mysql.png" alt="icone Java">
                     </div>
                     <div class="col-4 mb-2">
-                        <img class="img-used-repo" src="/public/assets/languages/docker.png" alt="icone Java">
+                        <img class="img-used-repo" src="assets/languages/docker.png" alt="icone Java">
                     </div>
                 </div>
             </div>
@@ -46,10 +46,10 @@
                 <h5>Tecnologias usadas</h5>
                 <div class="row justify-content-center">
                     <div class="col-4">
-                        <img class="img-used-repo" src="/public/assets/languages/java.png" alt="icone Java">
+                        <img class="img-used-repo" src="assets/languages/java.png" alt="icone Java">
                     </div>
                     <div class="col-4 mb-2">
-                        <img class="img-used-repo" src="/public/assets/languages/mysql.png" alt="icone Java">
+                        <img class="img-used-repo" src="assets/languages/mysql.png" alt="icone Java">
                     </div>
                 </div>
             </div>
@@ -71,11 +71,11 @@
                 <h5>Tecnologias usadas</h5>
                 <div class="row justify-content-center">
                     <div class="col-4">
-                        <img class="img-used-repo" src="/public/assets/languages/Angular.png" alt="icone Vue">
+                        <img class="img-used-repo" src="assets/languages/Angular.png" alt="icone Vue">
                     </div>
 
                     <div class="col-4">
-                        <img class="img-used-repo" src="/public/assets/languages/ts.png" alt="icone Javascript">
+                        <img class="img-used-repo" src="assets/languages/ts.png" alt="icone Javascript">
                     </div>
                 </div>
             </div>
@@ -97,11 +97,11 @@
                 <h5>Tecnologias usadas</h5>
                 <div class="row justify-content-center">
                     <div class="col-4 mb-2">
-                        <img class="img-used-repo" src="/public/assets/languages/java.png" alt="icone Vue">
+                        <img class="img-used-repo" src="assets/languages/java.png" alt="icone Vue">
                     </div>
 
                     <div class="col-4 mb-2">
-                        <img class="img-used-repo" src="/public/assets/languages/mysql.png" alt="icone Javascript">
+                        <img class="img-used-repo" src="assets/languages/mysql.png" alt="icone Javascript">
                     </div>
                 </div>
             </div>
@@ -123,11 +123,11 @@
                 <h5>Tecnologias usadas</h5>
                 <div class="row justify-content-center">
                     <div class="col-4">
-                        <img class="img-used-repo" src="/public/assets/languages/php.png" alt="icone Vue">
+                        <img class="img-used-repo" src="assets/languages/php.png" alt="icone Vue">
                     </div>
 
                     <div class="col-4">
-                        <img class="img-used-repo" src="/public/assets/languages/js.png" alt="icone Javascript">
+                        <img class="img-used-repo" src="assets/languages/js.png" alt="icone Javascript">
                     </div>
                 </div>
             </div>

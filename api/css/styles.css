@@ -1,0 +1,177 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
+@import url('./langIcons.css');
+
+body,
+html {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+
+
+.nav-bar-theme {
+    z-index: 9999;
+    background-color: transparent;
+    position: fixed;
+    backdrop-filter: blur(20px);
+    background-color: #ffffff33;
+    color: white;
+    width: 70%;
+    transition: transform 0.5s ease-in-out;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    font-family: "IBM Plex Mono", monospace !important;
+    transform: translateY(-10%);
+}
+
+.nav-hide {
+    transform: translateY(-85%);
+}
+
+
+
+.main-content {
+    min-height: 100vh;
+    padding-top: 17rem;
+}
+
+.nav-link {
+    font-size: 1.5rem;
+    color: white !important;
+    text-shadow: 0px 0px 5px rgb(0, 187, 201);
+}
+
+.separador {
+    margin-top: 7rem;
+}
+
+.img-protifolio {
+    border-radius: 380px;
+    width: 60%;
+    box-shadow: 15px 15px 50px rgb(0, 187, 201);
+    animation: box-squeeze 15s infinite, pulse-shadow 6s infinite alternate;
+}
+
+
+@keyframes pulse-shadow {
+    0% {
+        box-shadow: 15px 15px 50px rgb(0, 187, 201);
+    }
+
+    50% {
+        box-shadow: 25px 25px 70px rgb(0, 187, 201);
+    }
+
+    100% {
+        box-shadow: 15px 15px 50px rgb(0, 187, 201);
+    }
+}
+
+/* Existing box-squeeze animation (you can adjust it) */
+@keyframes box-squeeze {
+    0% {
+        transform: scale(1);
+    }
+
+    50% {
+        transform: scale(1.0004);
+    }
+
+    100% {
+        transform: scale(1);
+    }
+}
+
+
+.redes-btn:hover {
+    box-shadow: 5px 5px 15px rgb(0, 187, 201);
+    animation: pulse-shadow-btn 4s infinite alternate;
+    transform: scale(1.1);
+}
+
+@keyframes pulse-shadow-btn {
+    0% {
+        box-shadow: 5px 5px 15px rgb(0, 187, 201);
+    }
+
+    50% {
+        box-shadow: 5px 5px 25px rgb(0, 187, 201);
+    }
+
+    100% {
+        box-shadow: 5px 5px 15px rgb(0, 187, 201);
+    }
+}
+
+
+
+
+#emailAlert {
+    display: none;
+    padding: 10px;
+    background-color: rgba(0, 123, 255, 0.1);
+    border: 1px solid #007bff;
+    color: #007bff;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 16px;
+    font-weight: bold;
+    transition: opacity 0.5s ease, visibility 0s linear 0.5s;
+}
+
+#copyButton {
+    transition: transform 0.3s ease, background-color 0.3s ease;
+}
+
+
+
+
+.img-used-repo {
+    width: 50%;
+}
+
+.icon-footer {
+    width: 30%;
+}
+
+
+@media (max-width:1200px) {
+    .img-protifolio {
+        width: 90%;
+        height: 85%;
+    }
+}
+
+@media (max-width:992px) {
+    .img-protifolio {
+        width: 100%;
+        height: 70%;
+        animation: pulse-shadow 6s infinite alternate;
+    }
+}
+
+@media (max-width:768px) {
+    .img-protifolio {
+        width: 60%;
+        height: 90%;
+    }
+}
+
+@media (max-width:576px) {
+    .nav-bar-theme {
+        width: 100% !important;
+    }
+
+    section {
+        padding-top: 6rem;
+    }
+
+    .img-protifolio {
+        width: 60%;
+    }
+
+    .icon-footer {
+        width: 75%;
+    }
+}
