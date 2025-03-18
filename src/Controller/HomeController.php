@@ -81,7 +81,7 @@ class HomeController implements Controller
     {
         $links = $this->links;
         $techs = $this->techs;
-        require_once __DIR__ . '/../../views/home-page.php';
+        require_once __DIR__ . '/../../public/views/home-page.php';
     }
 }
 
