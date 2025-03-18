@@ -4,19 +4,19 @@
         <div class="row justify-content-center">
             <p class="text-center">Tecnologias usadas no Portifólio</p>
             <div class="col-2 d-flex justify-content-center">
-                <img class="icon-footer" src="assets/languages/php.png" alt="">
+                <img class="icon-footer" src="/public/assets/languages/php.png" alt="">
             </div>
             <div class="col-2 d-flex justify-content-center">
-                <img class="icon-footer" src="assets/languages/js.png" alt="">
+                <img class="icon-footer" src="/public/assets/languages/js.png" alt="">
             </div>
             <div class="col-2 d-flex justify-content-center">
-                <img class="icon-footer" src="assets/languages/html.png" alt="">
+                <img class="icon-footer" src="/public/assets/languages/html.png" alt="">
             </div>
             <div class="col-2 d-flex justify-content-center">
-                <img class="icon-footer" src="assets/languages/css.png" alt="">
+                <img class="icon-footer" src="/public/assets/languages/css.png" alt="">
             </div>
             <div class="col-2 d-flex justify-content-center">
-                <img class="icon-footer" src="assets/languages/bootstrap.png" alt="">
+                <img class="icon-footer" src="/public/assets/languages/bootstrap.png" alt="">
             </div>
         </div>
     </div>

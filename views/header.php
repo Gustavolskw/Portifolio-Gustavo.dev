@@ -6,10 +6,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Gustavo.Dev</title>
 
-    <link rel="stylesheet" href="css/bootstrap.min.css">
-    <link rel="stylesheet" href="css/bootstrap-icons.css">
-    <link rel="stylesheet" href="css/styles.css">
-    <link rel="shortcut icon" href="assets/img/dev.png" type="image/x-icon">
+    <link rel="stylesheet" href="/public/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/public/css/bootstrap-icons.css">
+    <link rel="stylesheet" href="/public/css/styles.css">
+    <link rel="shortcut icon" href="/public/assets/img/dev.png" type="image/x-icon">
 </head>
 
 <body class="bg-dark text-white h-100">
