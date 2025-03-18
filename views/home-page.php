@@ -53,7 +53,7 @@ require_once __DIR__ . '/header.php';
         </div>
         <div class="col-md-5">
             <div class="img-container d-flex justify-content-center h-100">
-                <img class="img-protifolio" src="/assets/img/Gustavo_1.jpeg" alt="">
+                <img class="img-protifolio" src="/public/assets/img/Gustavo_1.jpeg" alt="">
             </div>
         </div>
     </div>
